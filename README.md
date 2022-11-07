@@ -5,9 +5,10 @@
 ### Sempre que eu vejo um projeto interessante em outra linguaguem eu me pergunto: Será que dá pra fazer em Flutter?
 
 ### Foi o que aconteceu com o desenho feito em CSS pela Desenvolvedora Front-end [Natália F. da Silva](https://github.com/natalia-fs).
+> Fiz tudo em apenas um arquivo para ajudar os devs de outras areas que têm interesse na linguagem Flutter 💙 .
 
 
-CSS to FLUTTER! Será que deu bom? Confere aí.
+CSS to FLUTTER! Confere aí.
 
 Projeto Original: [Projeto em CSS - SpeedCode](https://www.linkedin.com/posts/natalia-f-da-silva_css-html-youtube-activity-6860684629607796736-bfnO/)
 
